@@ -1,0 +1,20 @@
+.todoItem {
+  width: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #eeeeee;
+  border: white 1px solid;
+  padding: 10px;
+  margin: 20px 0;
+}
+
+.todoId {
+  font-size: 12px;
+  color: dodgerblue;
+}
+
+.todoTitle {
+  font-size: 18px;
+  color: black;
+}
